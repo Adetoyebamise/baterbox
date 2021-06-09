@@ -1,2 +1,6 @@
 ### personal-portfolio-website
-My Intent is to commit to this project for the next three or four months
+
+--------
+
+
+The website is still undergoing some changes at the moment: [click here ](https://adetoyebamise.github.io/personal-portfolio-website/) to view
